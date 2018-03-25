@@ -18,8 +18,12 @@
           <option name="url" value="https://github.com/treehouse/contactmgr-hibernate" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/treehouse/giflib-hibernate" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/google-drive/learning/treehouse/java/hibernate" />
+    <option name="cloneParentDir" value="$USER_HOME$/google-drive/learning/treehouse/java/" />
   </component>
 </application>
