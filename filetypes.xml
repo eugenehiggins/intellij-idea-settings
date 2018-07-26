@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="pt" type="HTML" />
       <mapping ext="zcml" type="XML" />
       <mapping ext="catz" type="XML" />
     </extensionMap>
