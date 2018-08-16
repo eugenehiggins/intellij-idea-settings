@@ -3,6 +3,7 @@
     <extensionMap>
       <removed_mapping ext="pt" type="Chameleon" />
       <mapping pattern=".tmpl" type="HTML" />
+      <mapping ext="tmpl" type="HTML" />
       <mapping ext="pt" type="HTML" />
       <mapping ext="zcml" type="XML" />
       <mapping ext="catz" type="XML" />
