@@ -5,6 +5,7 @@
       <mapping ext="tmpl" type="HTML" />
       <mapping ext="zcml" type="XML" />
       <mapping ext="catz" type="XML" />
+      <mapping ext="sls" type="YAML" />
     </extensionMap>
   </component>
 </application>
