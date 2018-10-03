@@ -2,7 +2,9 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/Sites/CNM-Plone5-Buildout/cnm/theme/theme/less/cnm.less" timestamp="1538587399327" />
+    </filemarks>
     <jumps />
     <registers />
     <search>
