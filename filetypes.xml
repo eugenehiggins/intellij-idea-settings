@@ -1,9 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping ext="cpt" type="HTML" />
-      <mapping ext="tmpl" type="HTML" />
-      <mapping pattern="a," type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
-</application>
