@@ -2,9 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
-      <removed_mapping ext="pt" type="Chameleon" />
       <mapping ext="tmpl" type="HTML" />
-      <mapping ext="pt" type="HTML" />
       <mapping ext="sls" type="YAML" />
     </extensionMap>
   </component>
