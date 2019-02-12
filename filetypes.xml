@@ -1,9 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
-      <mapping ext="tmpl" type="HTML" />
-      <mapping ext="sls" type="YAML" />
-    </extensionMap>
-  </component>
-</application>
