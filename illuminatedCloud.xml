@@ -4,6 +4,7 @@
       <list>
         <IlluminatedCloudConnectionConfig>
           <option name="connectionName" value="New Connection" />
+          <option name="organizationType" value="DEVELOPMENT" />
           <option name="password" value="df9bdf8bdf80dfc1df93dfc2dff9df9cdffbdfe3df9cdfdb" />
           <option name="securityToken" value="dfdddfd2dfdadfc9dfcedfe9dfdcdfdadfecdfdedfdcdff2dfd0dfdcdff8dfd0dfccdfdcdfd9dfecdfdfdfc0dfc0df9c" />
           <option name="username" value="ehigginsiii@playful-wolf-fd0sok.com" />
