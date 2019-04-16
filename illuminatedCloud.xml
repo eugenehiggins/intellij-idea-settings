@@ -1,0 +1,19 @@
+<application>
+  <component name="IlluminatedCloudSettings">
+    <option name="connectionConfigs">
+      <list>
+        <IlluminatedCloudConnectionConfig>
+          <option name="connectionName" value="New Connection" />
+          <option name="organizationType" value="DEVELOPMENT" />
+          <option name="password" value="df9bdf8bdf80dfc1df93dfc2dff9df9cdffbdfe3df9cdfdb" />
+          <option name="securityToken" value="dfdddfd2dfdadfc9dfcedfe9dfdcdfdadfecdfdedfdcdff2dfd0dfdcdff8dfd0dfccdfdcdfd9dfecdfdfdfc0dfc0df9c" />
+          <option name="username" value="ehigginsiii@playful-wolf-fd0sok.com" />
+        </IlluminatedCloudConnectionConfig>
+      </list>
+    </option>
+    <option name="promptOverrideSaveAllAction" value="false" />
+    <option name="selectedConnectionIndex" value="0" />
+    <option name="selectedTabIndex" value="1" />
+    <option name="sfdxExecutablePath" value="/usr/local/bin/sfdx" />
+  </component>
+</application>
