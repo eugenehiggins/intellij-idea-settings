@@ -1,8 +1,17 @@
 <code_scheme name="Default" version="173">
-  <TypeScriptCodeStyleSettings>
+  <option name="AUTODETECT_INDENTS" value="false" />
+  <JSCodeStyleSettings version="0">
+    <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
+  </JSCodeStyleSettings>
+  <TypeScriptCodeStyleSettings version="0">
+    <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACKETS" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </TypeScriptCodeStyleSettings>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
   <codeStyleSettings language="JavaScript">
+    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
