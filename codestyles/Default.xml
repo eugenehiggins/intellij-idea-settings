@@ -1,5 +1,8 @@
 <code_scheme name="Default" version="173">
   <option name="AUTODETECT_INDENTS" value="false" />
+  <HTMLCodeStyleSettings>
+    <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="body,div,p,form,h1,h2,h3,input" />
+  </HTMLCodeStyleSettings>
   <JSCodeStyleSettings version="0">
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
   </JSCodeStyleSettings>
