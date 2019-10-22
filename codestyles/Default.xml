@@ -23,6 +23,9 @@
   <codeStyleSettings language="JavaScript">
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
     <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
       <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
@@ -35,5 +38,10 @@
   </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
     <option name="SPACE_WITHIN_BRACKETS" value="true" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
   </codeStyleSettings>
 </code_scheme>
