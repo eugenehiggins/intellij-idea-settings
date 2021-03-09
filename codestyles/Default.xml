@@ -1,15 +1,20 @@
 <code_scheme name="Default" version="173">
   <option name="AUTODETECT_INDENTS" value="false" />
   <HTMLCodeStyleSettings>
+    <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
     <option name="HTML_ELEMENTS_TO_INSERT_NEW_LINE_BEFORE" value="body,div,p,form,h1,h2,h3,input" />
   </HTMLCodeStyleSettings>
   <JSCodeStyleSettings version="0">
+    <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
   </JSCodeStyleSettings>
   <TypeScriptCodeStyleSettings version="0">
     <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACKETS" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </TypeScriptCodeStyleSettings>
+  <XML>
+    <option name="XML_SPACE_INSIDE_EMPTY_TAG" value="true" />
+  </XML>
   <editorconfig>
     <option name="ENABLED" value="false" />
   </editorconfig>
