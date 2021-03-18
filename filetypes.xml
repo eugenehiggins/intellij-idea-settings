@@ -1,8 +1,8 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="CheckboxGroup.js" type="AUTO_DETECTED" />
       <mapping ext="tmpl" type="HTML" />
+      <mapping pattern="CheckboxGroup.js" type="JavaScript" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="zcml" type="XML" />
